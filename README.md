@@ -11,7 +11,6 @@ A Flutter application that displays posts from JSONPlaceholder API.
 ### Prerequisites
 
 - iOS Simulator or Device
-- Xcode 15.0 or higher
 
 ### Installation
 
